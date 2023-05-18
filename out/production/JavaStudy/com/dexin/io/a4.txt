@@ -1,4 +1,0 @@
--- listing properties --
-user=root
-pwd=12456
-ip=192.168.213.1
