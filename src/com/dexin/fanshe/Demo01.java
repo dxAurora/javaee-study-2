@@ -25,6 +25,8 @@ public class Demo01 {
 
         System.out.println("rabbitmq");
         System.out.println("rabbitmq add");
+        System.out.println("rabbitmq add2");
+
 
         System.out.println(class1.getClass());
 
