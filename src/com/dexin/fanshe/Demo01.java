@@ -24,6 +24,7 @@ public class Demo01 {
         System.out.println(class3 + " --- " + class3.hashCode());
 
         System.out.println("rabbitmq");
+        System.out.println("rabbitmq add");
 
         System.out.println(class1.getClass());
 
