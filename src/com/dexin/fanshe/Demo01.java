@@ -22,9 +22,6 @@ public class Demo01 {
         System.out.println(class1 + " --- " + class1.hashCode());
         System.out.println(class2 + " --- " + class2.hashCode());
         System.out.println(class3 + " --- " + class3.hashCode());
-        System.out.println(class1 + " --- " + class1.hashCode());
-        System.out.println(class2 + " --- " + class2.hashCode());
-        System.out.println(class3 + " --- " + class3.hashCode());
 
         System.out.println(class1.getClass());
 
